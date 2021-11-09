@@ -16,7 +16,7 @@
         <repository>
             <id>github</id>
             <name>cturner-nbme</name>
-            <url>https://maven.pkg.github.com/cturner-nbme/template-project</url>
+            <url>https://maven.pkg.github.com/cturner-nbme/actions-demo</url>
         </repository>
     </distributionManagement>
 
